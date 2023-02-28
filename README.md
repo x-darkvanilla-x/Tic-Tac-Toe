@@ -1,6 +1,6 @@
 This Whole project is built in Turbo c3 compiler, might requrire some changes if you run it in other compilers or it might even not work
 
-download Turbo c3 from here :- https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
+Download Turbo c3 from here :- https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
 
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/122479676/221939906-38d4e0e9-a8c7-41f7-b491-22b8a7e97a75.png)
