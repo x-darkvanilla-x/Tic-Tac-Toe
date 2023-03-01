@@ -2,12 +2,11 @@ This Whole project is built in Turbo c3 compiler, might requrire some changes if
 
 Download Turbo c3 from here :- https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
 
-
 # Loading Screen
 ![Screenshot (19)](https://user-images.githubusercontent.com/122479676/222082298-82e5ed4d-f67c-4eb2-9130-a157ca6bf64d.png)
 
 # Game Menu
-![Screenshot (16)](https://user-images.githubusercontent.com/122479676/222082341-34cebaaa-6236-4656-b4b7-2ebbbd9c992f.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/122479676/222083225-0e4434df-dad7-4c98-8d59-61eb6c74ad14.png)
 
 # Contorls and Settings
 ![Screenshot (16)](https://user-images.githubusercontent.com/122479676/222082382-e965659f-cd85-420f-9a10-e98bb260f2af.png)
