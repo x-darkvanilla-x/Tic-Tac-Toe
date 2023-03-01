@@ -3,12 +3,12 @@ This Whole project is built in Turbo c3 compiler, might requrire some changes if
 Download Turbo c3 from here :- https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/122479676/221939906-38d4e0e9-a8c7-41f7-b491-22b8a7e97a75.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/122479676/222082298-82e5ed4d-f67c-4eb2-9130-a157ca6bf64d.png)
 
+![Screenshot (16)](https://user-images.githubusercontent.com/122479676/222082341-34cebaaa-6236-4656-b4b7-2ebbbd9c992f.png)
 
-![Screenshot (3)](https://user-images.githubusercontent.com/122479676/221939834-86be32b2-58a4-48ff-a5f8-f7d7b0822b36.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/122479676/222082382-e965659f-cd85-420f-9a10-e98bb260f2af.png)
 
-![Screenshot (8)](https://user-images.githubusercontent.com/122479676/221939952-e3e2e83b-e999-4cbd-927f-463f9c3610da.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/122479676/222082420-da920102-2198-4bba-9b17-680cd507fd41.png)
 
-
-![Screenshot (9)](https://user-images.githubusercontent.com/122479676/221939982-6ef37b16-0862-42f9-a3b9-b9e53118258e.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/122479676/222082450-86523ce9-4afe-4519-9750-6d5e14a9581f.png)
