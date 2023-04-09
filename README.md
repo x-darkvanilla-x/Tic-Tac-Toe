@@ -14,8 +14,9 @@ Interchangeable Menu Background color
 ![Screenshot (16)](https://user-images.githubusercontent.com/122479676/222082382-e965659f-cd85-420f-9a10-e98bb260f2af.png)
 
 # Game Board
-![Screenshot (17)](https://user-images.githubusercontent.com/122479676/222082420-da920102-2198-4bba-9b17-680cd507fd41.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/122479676/230757664-6c80a4d5-7b14-4154-b292-95ce0b4590b2.png)
 
 # Gameplay
 Both Single-player and Multi-Player modes are avaliable
-![Screenshot (18)](https://user-images.githubusercontent.com/122479676/222082450-86523ce9-4afe-4519-9750-6d5e14a9581f.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/122479676/230757675-119383ec-fd62-4066-b5ab-f9b1baf23db6.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/122479676/230757683-40942d94-d05a-48b3-9222-86e72fb4ec2a.png)
